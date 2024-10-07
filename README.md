@@ -1,7 +1,7 @@
 <h1>Proyecto Alugames</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto desarrollado pro mi Isaisa Daniel</p>
+<p>Projeto desarrollado pro mi Isaias Daniel en el curso Logica de programacion</p>
 
 ## �� Tecnologias
 <div>
